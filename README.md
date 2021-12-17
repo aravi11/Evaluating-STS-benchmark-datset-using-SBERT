@@ -3,7 +3,7 @@
 Pre-requisites: 
 
 Sentence Transformer
-Install via pip - *** pip3 install -U sentence-transformers
+Install via pip - pip3 install -U sentence-transformers
 
 or install it by cloning the repo: 
 
