@@ -1,1 +1,1 @@
-# Evaluating-STS-benchmark-datset-suing-SBERT
+# Evaluating-STS-benchmark-datset-using-SBERT
