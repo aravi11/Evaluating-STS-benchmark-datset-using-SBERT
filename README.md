@@ -11,10 +11,12 @@ or install it by cloning the repo:
 2. pip install -e . 
 
 Running the regression task: 
+
 Command : python3 regression.py 
 
 
 Running the classification task: 
+
 Command : python3 classification.py 
 
 
